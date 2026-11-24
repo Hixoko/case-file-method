@@ -1,5 +1,9 @@
 # <DATE> — <what this document is>
 
+> **Note:** the links in this template point to where the file will live **in your
+> case repo**, not to anything in this repository. They will show as broken here and
+> resolve once you copy the file into place.
+
 | | |
 |---|---|
 | **Date** | <the document's date, not the photo's> |

@@ -1,5 +1,9 @@
 # <Name> — case file
 
+> **Note:** the links in this template point to where the file will live **in your
+> case repo**, not to anything in this repository. They will show as broken here and
+> resolve once you copy the file into place.
+
 **Private.** <Who, age, one line on the condition and how long it has gone on.>
 
 > **This is a family case file, not a medical document.** Nothing here is a
